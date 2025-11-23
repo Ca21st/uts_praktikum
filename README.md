@@ -16,6 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+
+
 📱 UTS Pemrograman Mobile
 
 Aplikasi Flutter sederhana untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Pemrograman Mobile.
@@ -30,6 +32,8 @@ NPM
 Desain UI modern
 
 Tampilan responsif pada Android
+
+
 
 
 🎯 Fitur Aplikasi
@@ -49,6 +53,8 @@ Tampilan responsif pada Android
 ✔ Kompatibel untuk Android (real device & emulator)
 
 
+
+
 🛠️ Teknologi yang Digunakan
 
 Flutter SDK
@@ -58,6 +64,8 @@ Dart
 Android Studio / VS Code
 
 Material Design Components
+
+
 
 
 ▶️ Cara Menjalankan Project
@@ -75,6 +83,8 @@ flutter pub get
 flutter run
 
 
+
+
 📦 Cara Menambahkan Asset Gambar
 
 Pastikan gambar ada di folder:
@@ -88,13 +98,15 @@ flutter:
     - assets/Gemini_Generated_Image_y8zcrsy8zcrsy8zc.png
 
 
+
+
 👨‍🎓 Identitas
 
 Nama: Abdillah Fakhri Santosa
 
 NPM: 122005011
 
-Kelas: Teknik Informatika
+Program Studi: Teknik Informatika
 
 Universitas: UNIVERSITAS HALIM SANUSI
 
